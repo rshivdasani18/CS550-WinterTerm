@@ -1,6 +1,6 @@
 # **Rohin's Fantastic Quiz!**
 
-! [image of llama]
+[image of llama]
 (http://thisnzlife.co.nz/wp-content/uploads/2017/06/Llamas_jpg9.jpg)
 
 - I have one pet, a dog named Dabo
