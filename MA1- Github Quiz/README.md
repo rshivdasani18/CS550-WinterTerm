@@ -1,6 +1,6 @@
 # **Rohin's Fantastic Quiz!**
 
-![image of llama](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Llama_lying_down.jpg/1200px-Llama_lying_down.jpg)
+!(http://www.ravepubs.com/wp-content/uploads/2014/04/fantastic.gif)
 
 - I have one pet, a dog named Dabo
 - I only know Python, so one programming language
