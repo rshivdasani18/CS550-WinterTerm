@@ -11,6 +11,6 @@
 - The Github desktop app is great to use! Use it for uploading files from your text editor to Github!
   - You can copy and transfer stiff back and from between the Github online and desktop app
   
--Markdown language is the formatting and style of text in Github! It is what I am using right now to make these notes with the bullet points and bolded words. 
+- Markdown language is the formatting and style of text in Github! It is what I am using right now to make these notes with the bullet points and bolded words. 
 
 There is a ton of features and things to explore on Github! The inner workings of it are an enigma! Best way to become a Github virtuoso is to just jump in and start Gitting!
