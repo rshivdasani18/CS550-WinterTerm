@@ -1,7 +1,6 @@
 # **Rohin's Fantastic Quiz!**
 
-[image of llama]
-(http://thisnzlife.co.nz/wp-content/uploads/2017/06/Llamas_jpg9.jpg)
+[image of llama] (https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Llama_lying_down.jpg/1200px-Llama_lying_down.jpg)
 
 - I have one pet, a dog named Dabo
 - I only know Python, so one programming language
